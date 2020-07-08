@@ -41,8 +41,13 @@
 }
 .image {
     padding: 20px;
+    size: 100px;
 }
 .game {
     background-color: rgb(13, 168, 129);
     height: 30px;
+    width: 38%;
+    text-align: center;
+    
+
 }
