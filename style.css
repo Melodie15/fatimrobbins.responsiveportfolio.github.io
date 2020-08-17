@@ -40,14 +40,22 @@
     height: 600px;
 }
 .image {
+    position: relative;
     padding: 20px;
-    size: 100px;
+    size: 50%;
 }
 .game {
+    position: absolute;
     background-color: rgb(13, 168, 129);
     height: 30px;
     width: 38%;
     text-align: center;
-    
+    /* padding-bottom: 70px; */
+    /* padding-top: 50px; */
+    bottom: 15px;
+    padding: 20px;
+    padding-top: 10px;
+    size: 50%;
+ 
 
 }
