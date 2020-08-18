@@ -53,8 +53,12 @@ p {
     position: absolute;
     background-color: rgb(13, 168, 129);
     height: 30px;
-    width: 38%;
+    width: 55%;
     text-align: center;
     size: 50%;
  
+}
+.responsive {
+    width: 60%;
+    height: auto;
 }
